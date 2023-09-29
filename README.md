@@ -1,4 +1,6 @@
+![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/BlckDragonXabhi/BlckDragonXabhi/assets/132396257/fff71339-6b0d-4e85-b981-923c6619c5b9)
 # 💫 About Me:
+
 I'm currently learning app development.
 
 
