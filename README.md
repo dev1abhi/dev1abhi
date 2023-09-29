@@ -3,8 +3,6 @@
 
 I'm Abhilash & am currently learning app development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlckDragonXabhi&size_weight=0.5&count_weight=0.5)](https://github.com/BlckDragonXabhi/github-readme-stats)
-
 ## 🌐 Socials:
 
  <div align="left">
