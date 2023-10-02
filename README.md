@@ -43,5 +43,6 @@ I'm Abhilash & am currently learning app development.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dev1abhi&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev1abhi&label=Profile%20views&color=0e75b6&style=flat" alt="dev1abhi" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
