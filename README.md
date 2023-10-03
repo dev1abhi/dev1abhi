@@ -1,7 +1,7 @@
 ![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/BlckDragonXabhi/BlckDragonXabhi/assets/132396257/fff71339-6b0d-4e85-b981-923c6619c5b9)
 # 💫 Hey there, Hope you are doing fine. 
 
-I'm Abhilash & am currently learning app development.
+I'm Abhilash & am currently working on flutter apps.
 
 ## 🌐 Socials:
 
@@ -42,7 +42,7 @@ I'm Abhilash & am currently learning app development.
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dev1abhi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=dev1abhi&icon=0&color=0)](https://visitcount.itsvg.in)-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev1abhi&label=Profile%20views&color=0e75b6&style=flat" alt="dev1abhi" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
