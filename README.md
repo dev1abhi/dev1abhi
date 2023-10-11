@@ -28,6 +28,8 @@ I'm Abhilash & am currently working on flutter apps.
 
 ![snake gif](https://github.com/dev1abhi/dev1abhi/blob/output/github-contribution-grid-snake-dark.svg)
 
+[![An image of @blckdragonxabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blckdragonxabhi)](https://holopin.io/@blckdragonxabhi)
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1abhi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
