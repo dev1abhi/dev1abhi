@@ -1,7 +1,7 @@
 ![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/BlckDragonXabhi/BlckDragonXabhi/assets/132396257/fff71339-6b0d-4e85-b981-923c6619c5b9)
 # 💫 Hey there, Hope you are doing fine. 
 
-I'm Abhilash & am currently working on flutter apps.
+I'm Abhilash & am currently working on MERN Stack. Have prior experience in Flutter & Kotlin frameworks.
 
 ## 🌐 Socials:
 
