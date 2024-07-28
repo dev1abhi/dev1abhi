@@ -1,5 +1,4 @@
 ![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/BlckDragonXabhi/BlckDragonXabhi/assets/132396257/fff71339-6b0d-4e85-b981-923c6619c5b9)
-![wp12827857-shiva-universe-wallpapers](https://github.com/user-attachments/assets/af34166d-6d55-4937-a186-f96d7de467ff)
 
 # 💫 Hey there, Hope you are doing fine. 
 
