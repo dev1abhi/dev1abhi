@@ -40,8 +40,9 @@ I'm Abhilash & am currently working on MERN Stack. Have prior experience in Flut
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<!--
 ## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400;"/> -->
 
 
 ---
