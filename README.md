@@ -2,7 +2,7 @@
 
 # 💫 Hey there, Hope you are doing fine. 
 
-I'm Abhilash & am currently working on MERN Stack. Have prior experience in Flutter & Kotlin frameworks.
+I'm Abhilash & I piece multiple things together to craft something beautiful.
 
 ## 🌐 Socials:
 
