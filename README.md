@@ -2,7 +2,7 @@
 
 # 💫 Hey there, Hope you are doing fine. 
 
-I'm Abhilash & I piece multiple things together to craft something beautiful.
+I'm Abhilash & I try to piece multiple things together to craft something beautiful.
 
 ## 🌐 Socials:
 
