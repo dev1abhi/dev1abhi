@@ -16,11 +16,11 @@ I'm Abhilash & I try to piece multiple things together to craft something beauti
   <a href="http://abhilashsarangi222@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-<!--   <a href="https://www.instagram.com/guru_abhie/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a> -->
   <a href="http://discordapp.com/users/810191054572879902" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+   <a href="https://playvalorant.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Valorant%20ID%3A%20DevAbhi%232120&label=&color=FA4454&logo=riotgames&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="valorant logo"  />
   </a>
 </div>
 
