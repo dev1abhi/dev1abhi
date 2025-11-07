@@ -92,7 +92,7 @@ I'm Abhilash & I try to piece multiple things together to craft something beauti
 ## Github Activity:
 ![snake gif](https://github.com/dev1abhi/dev1abhi/blob/output/github-contribution-grid-snake-dark.svg)
 
-## HacktoberFest 2023-2024 Repo Maintainer:
+## HacktoberFest 2023-2025 Repo Maintainer:
 [![An image of @blckdragonxabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blckdragonxabhi)](https://holopin.io/@blckdragonxabhi)
 
 ## 📊 GitHub Stats:
