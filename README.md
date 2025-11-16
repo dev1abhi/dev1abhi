@@ -1,4 +1,7 @@
-![Purple Gradient Digital Marketing LinkedIn Banner](https://github.com/BlckDragonXabhi/BlckDragonXabhi/assets/132396257/fff71339-6b0d-4e85-b981-923c6619c5b9)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1986481c-d6cb-4aeb-95f6-666a959ec733" alt="gif" />
+</p>
+
 
 # 💫 Hey there, Hope you are doing fine. 
 
