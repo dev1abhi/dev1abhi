@@ -7,7 +7,7 @@
 
 I'm Abhilash & I try to piece multiple things together to craft something beautiful.
 
-## 🌐 Socials:
+## Socials:
 
  <div align="left">
   <a href="https://www.linkedin.com/in/abhilash-sarangi21/" target="_blank">
@@ -98,13 +98,13 @@ I'm Abhilash & I try to piece multiple things together to craft something beauti
 ## HacktoberFest 2023-2025 Repo Maintainer:
 [![An image of @blckdragonxabhi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blckdragonxabhi)](https://holopin.io/@blckdragonxabhi)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1abhi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=dev1abhi&theme=onestar&no-frame=false&no-bg=true&margin-w=4)  
 
-## ✍️ Dev Quote
+## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--
